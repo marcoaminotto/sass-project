@@ -15,5 +15,5 @@ To run this project, download it to your computer or use the git command `git cl
 #
 
 <p align="center">
-   <b> &#60;/&#62; by <a href="www.linkedin.com/in/marco-echevestre/">Marco Echevestre</a></b>
+   <b> &#60;/&#62; by <a href="https://www.linkedin.com/in/marco-echevestre/">Marco Echevestre</a></b>
 </p>
